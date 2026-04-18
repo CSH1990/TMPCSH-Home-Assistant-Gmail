@@ -6,4 +6,4 @@ This project helps users interact with Gmail using voice via Home Assistant.
 - Action detection
 - Reply drafting
 
-See Privacy Policy:  https://csh1990.github.io/TMPCSH-Home-Assistant-Gmail/privacy.html
+See Privacy Policy: https://csh1990.github.io/TMPCSH-Home-Assistant-Gmail/privacy.html
